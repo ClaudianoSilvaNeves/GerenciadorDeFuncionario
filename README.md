@@ -30,7 +30,7 @@
   - ## Interface Calculos
   1. Aqui criei o metodo de calcularSalario que é implementado na class Funcionario e herdado pelas classes Gerente e Vendedor que por sua vez executam seus próprios métodos.
 
-  - ## Class principal
+  - ## Class Principal
   1. Primeiramente nessa class fiz a construção dos seguinte objetos
      1. Criei um objeto MenuStrings menu, para que eu possa chamar os menus em String da class MenuString.
      2. O Scanner scanner para que o usuário possa interagir.
